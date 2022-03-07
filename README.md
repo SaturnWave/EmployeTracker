@@ -69,6 +69,7 @@ How do you deliver this? Here are some guidelines:
 * You will need to perform a variety of SQL JOINS to complete this assignment, and it's recommended you review the week's activities if you need a refresher on this.
 
 ![Employee Tracker](Assets/employee-tracker.gif)
+<img width="948" alt="12-sql-homework-demo-01" src="https://user-images.githubusercontent.com/93743377/156968204-7de957f7-5c7d-460f-b051-1a024b8ef429.png">
 
 ### Hints
 
